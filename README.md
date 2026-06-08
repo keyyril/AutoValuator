@@ -2,7 +2,7 @@
 
 An end-to-end machine learning web application that predicts auction sale prices for enthusiast cars listed on [Cars & Bids](https://carsandbids.com), built on a dataset of 3,000 real auction records.
 
-**Live app:** [watchsy.streamlit.app](https://autovaluator-firsttimehehe.streamlit.app/)
+**Live app:** [autovaluator.streamlit.app](https://autovaluator-firsttimehehe.streamlit.app/)
 
 ---
 
